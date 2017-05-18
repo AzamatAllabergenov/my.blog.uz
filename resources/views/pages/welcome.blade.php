@@ -8,7 +8,7 @@
     <div class="col-md-12">
       <div class="jumbotron">
         <h1>Welcome to My Blog!</h1>
-        <p>Thanks you so much visiting</p>
+        <p>Thanks you so much visiting!!!</p>
         <p><a class= "btn btn-primary btn-lg" href="#">Popular Post</a></p>
       </div>
     </div>
